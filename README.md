@@ -1,2 +1,2 @@
-# laravel-scaffold
-Laravel Scaffold
+# scaffold-laravel
+Scaffold Laravel
